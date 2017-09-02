@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://smittywebernjagermanjensen.github.io" resolutions="1x" timestamp="1504209108449">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smittywebernjagermanjensen.github.io" resolutions="1x" timestamp="1504209108449">
   <folder name="css">
     <file name="site_global.css" crc="4275521114"/>
     <file name="index.css" crc="4049084085" ref="index"/>
