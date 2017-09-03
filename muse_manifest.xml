@@ -1,7 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smittywebernjagermanjensen.github.io" resolutions="1x" timestamp="1504209108449">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smittywebernjagermanjensen.github.io" resolutions="1x" timestamp="1504425997143">
   <folder name="css">
     <file name="site_global.css" crc="4275521114"/>
-    <file name="index.css" crc="4049084085" ref="index"/>
+    <file name="index.css" crc="98727718" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="audiocheck.net_binaural_knocking.mp3" crc="129990964" seo="true" mt="1504425786000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,6 +20,7 @@
     <file name="tacogur.png" crc="518897906" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="taco-u210-fr.png" crc="348369206" ref="index"/>
   </folder>
-  <file name="index.html" crc="4191272663" seo="true" mt="1504207055040" redirect="true"/>
+  <file name="index.html" crc="4256879991" seo="true" mt="1504425842302" redirect="true"/>
 </manifest>
