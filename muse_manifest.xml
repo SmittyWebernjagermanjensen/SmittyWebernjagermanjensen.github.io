@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smittywebernjagermanjensen.github.io" resolutions="1x" timestamp="1504425997143">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smittywebernjagermanjensen.github.io" resolutions="1x" timestamp="1504427038136">
   <folder name="css">
     <file name="site_global.css" crc="4275521114"/>
     <file name="index.css" crc="98727718" ref="index"/>
@@ -21,6 +21,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="taco-u210-fr.png" crc="348369206" ref="index"/>
+    <file name="favicon.ico" crc="373513231" ref="index"/>
   </folder>
-  <file name="index.html" crc="4256879991" seo="true" mt="1504425842302" redirect="true"/>
+  <file name="index.html" crc="493132766" seo="true" mt="1504426984541" redirect="true"/>
 </manifest>
